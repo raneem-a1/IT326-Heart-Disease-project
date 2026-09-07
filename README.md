@@ -11,15 +11,15 @@ The aim is to predict whether an individual is at high risk of ASCVD or not, bas
 ### Clustering goal:
 The aim is to group individuals into clusters based on similarities and differences across their attribute values, without relying on the class label, in order to uncover natural groupings or hidden patterns among patients.
 
-### Motivation
+**Motivation**
 Heart disease is consistently ranked among the top causes of death worldwide, and ASCVD in particular tends to develop silently over many years before any noticeable symptoms appear. By the time symptoms do show up, significant arterial damage may have already occurred, which is what makes early identification of risk so important. We were drawn to this problem because predictive models built on real patient data can support earlier screening and more informed prevention decisions, rather than relying only on traditional, broad risk factors that don’t account for how different variables interact with one another.
 Beyond the health impact, this dataset also gave us the chance to apply what we’re learning in a hands on way working through real, imperfect clinical data, deciding how to handle it, and applying both classification and clustering techniques to a problem where the results genuinely matter outside of the classroom.
 
 ### Students' Names:
-Jana ALzimami
-Dana Alhelal
-Arjwan Alwahibi
-Roda Alwahibi
-Raneem Alsheddi
+- Jana ALzimami
+- Dana Alhelal
+- Arjwan Alwahibi
+- Roda Alwahibi
+- Raneem Alsheddi
 
 
