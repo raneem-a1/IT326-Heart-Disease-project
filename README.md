@@ -1,6 +1,5 @@
 # IT326-Heart-Disease-project
 
-## ASCVD Risk Prediction
 
 ### Project Description 
 This project focuses on heart disease, a major health condition that can be associated with multiple clinical factors, such as age, blood pressure, cholesterol levels, chest pain, and heart rate. The presence of heart disease can vary between individuals, as these factors may interact with one another in different ways.
