@@ -21,7 +21,7 @@ We believe this problem is important because heart disease can have a serious im
 In addition to its real-world importance, we chose this dataset because it allows us to work with clinical data and apply the concepts we have learned in a practical context, including data preparation, classification, and clustering. This makes the project both meaningful from a healthcare perspective and valuable for developing our data analysis skills.
 
 ### Students' Names:
-- Jana ALzimami
+- Jana Alzimami
 - Dana Alhelal
 - Arjwan Alwahibi
 - Roda Alwahibi
