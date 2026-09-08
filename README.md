@@ -3,17 +3,23 @@
 ## ASCVD Risk Prediction
 
 ### Project Description 
-This project works with a dataset on Atherosclerotic Cardiovascular Disease (ASCVD), a condition caused by the buildup of fatty plaque inside the artery walls. Over time this buildup narrows and stiffens the arteries, restricting blood flow to the heart and brain, which is why ASCVD is closely linked to heart attacks, strokes, and other cardiovascular events. The condition is typically influenced by a mix of factors some fixed, like age and genetics, and others modifiable, like blood pressure, cholesterol levels, smoking, and lifestyle habits which makes it a good candidate for data-driven analysis rather than a single simple rule.
+This project focuses on heart disease, a major health condition that can be associated with multiple clinical factors, such as age, blood pressure, cholesterol levels, chest pain, and heart rate. The presence of heart disease can vary between individuals, as these factors may interact with one another in different ways.
+
+The main problem is that identifying meaningful patterns and relationships among these different clinical attributes can be challenging when examining each factor separately. Therefore, we aim to analyze the patient data to better understand the characteristics and patterns associated with the presence of heart disease. This can provide a clearer understanding of the data and the factors associated with heart disease.
 
 ### Classification goal:
-The aim is to predict whether an individual has cardiovascular disease based on their clinical attributes (age, blood pressure, cholesterol, HDL, smoking status, etc.). The dataset provides a target variable, where 0 represents no disease and 1 represents the presence of disease. The objective is to build a predictive model that accurately classifies individuals into these two groups.
+The aim is to predict whether an individual has heart disease or not based on their clinical attributes, such as age, sex, chest pain type, blood pressure, cholesterol levels, maximum heart rate, and other clinical measurements. The dataset provides a target variable, where 0 represents no heart disease and 1 represents the presence of heart disease. The objective is to build a predictive model that accurately classifies individuals into these two groups.
 
 ### Clustering goal:
-The aim is to group individuals into clusters based on similarities and differences across their attribute values, without relying on the class label, in order to uncover natural groupings or hidden patterns among patients.
+The aim is to group individuals into clusters based on similarities and differences in their clinical attributes, without relying on the class label, in order to uncover natural groupings and hidden patterns among patients.
+
 
 ### Motivation
-Heart disease is consistently ranked among the top causes of death worldwide, and ASCVD in particular tends to develop silently over many years before any noticeable symptoms appear. By the time symptoms do show up, significant arterial damage may have already occurred, which is what makes early identification of risk so important. We were drawn to this problem because predictive models built on real patient data can support earlier screening and more informed prevention decisions, rather than relying only on traditional, broad risk factors that don’t account for how different variables interact with one another.
-Beyond the health impact, this dataset also gave us the chance to apply what we’re learning in a hands on way working through real, imperfect clinical data, deciding how to handle it, and applying both classification and clustering techniques to a problem where the results genuinely matter outside of the classroom.
+We chose this dataset because heart disease is an important real-world health problem, and the dataset provides a variety of clinical attributes that allow us to explore the factors associated with its presence. We were particularly interested in working with patient data because it gives us the opportunity to study how different clinical characteristics, such as age, blood pressure, cholesterol, and heart rate, may be related to heart disease.
+
+We believe this problem is important because heart disease can have a serious impact on individuals’ health, and understanding the patterns associated with it can contribute to better awareness of the factors related to heart health. Analyzing this type of data can also help us gain a deeper understanding of how different clinical attributes interact rather than considering each factor separately.
+
+In addition to its real-world importance, we chose this dataset because it allows us to work with clinical data and apply the concepts we have learned in a practical context, including data preparation, classification, and clustering. This makes the project both meaningful from a healthcare perspective and valuable for developing our data analysis skills.
 
 ### Students' Names:
 - Jana ALzimami
